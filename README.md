@@ -65,9 +65,9 @@ This project is a comprehensive eCommerce platform built using the MERN stack, f
 ![Product List](./productlist-screen.png)
 
 ## 🎥 Demo Video
-
-[![Watch the demo](./demo-thumbnail.png)](./demo-video1.mp4)
-[![Watch the demo](./demo-thumbnail.png)](./demo-video2.mp4)
+[![Watch the demo](./demo-thumbnail.PNG)]
+[![Watch the demo](./demo-video1.mp4)
+[![Watch the demo](./demo-video2.mp4)
 
 Click on the thumbnail above to watch the demo video.
 
@@ -80,5 +80,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For any inquiries or support, please reach out to:
 
 - **Name:** Nabin Hamal
-- **Email:** [nabinhamal2@gmail.com](mailto:your-email@example.com)
-- **GitHub:** [github.com/nabinhamal](https://github.com/username)
+- **Email:** [nabinhamal2@gmail.com](mailto:nabinhamal2@gmail.com)
+- **GitHub:** [github.com/nabinhamal](https://github.com/nabinhamal)
