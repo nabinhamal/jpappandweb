@@ -53,8 +53,7 @@ This project is a comprehensive eCommerce platform built using the MERN stack, f
 ![Search Page](./search-screen.png)
 ![Product Page](./product-screen.png)
 ![OrderPage](./order-screen.png)
-![Cart Page](./Cart-screen.png)
-![Cart Page](./Cart-screen.png)
+![Cart Page](./cart-screen.png)
 ![Profile Page](./profile-screen.png)
 
 ![Mobile ViewPage](./mobileview-screen.png)
