@@ -3,7 +3,7 @@
 An advanced eCommerce platform built with the MERN stack, featuring a powerful admin dashboard for managing products, orders, and users, along with a React Native mobile app for a seamless shopping experience.
 
 
-## 🌐 Live Demo
+## 🌐 Live Web App Demo
 
 Check out the live version of the application here:
 
@@ -64,9 +64,9 @@ This project is a comprehensive eCommerce platform built using the MERN stack, f
 ![Product Create](./create-screen.png)
 ![Product List](./productlist-screen.png)
 
-## 🎥 Demo Video
-[![Watch the demo](./demo-thumbnail.PNG)]
-[![Watch the demo](./copy_9305EDEE-342F-4B97-9EAC-4E5CDC817D07.gif)
+## 🎥 Mobile App Demo Video
+[![Watch the demo](https://github.com/user-attachments/assets/7d407ab5-8569-48ed-8e12-3a092ad931c2
+)
 
 
 Click on the thumbnail above to watch the demo video.
