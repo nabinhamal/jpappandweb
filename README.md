@@ -66,8 +66,8 @@ This project is a comprehensive eCommerce platform built using the MERN stack, f
 
 ## 🎥 Demo Video
 [![Watch the demo](./demo-thumbnail.PNG)]
-[![Watch the demo](./demo1.mp4)
-[![Watch the demo](./demo2.mp4)
+[![Watch the demo](./copy_9305EDEE-342F-4B97-9EAC-4E5CDC817D07.gif)
+
 
 Click on the thumbnail above to watch the demo video.
 
