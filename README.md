@@ -67,6 +67,7 @@ This project is a comprehensive eCommerce platform built using the MERN stack, f
 ## 🎥 Mobile App Demo Video
 [![Watch the demo](https://github.com/user-attachments/assets/2072299a-12ee-4cff-a277-e2ffc1fcdc5c
 )
+[![Watch the demo](./copy_9305EDEE-342F-4B97-9EAC-4E5CDC817D07)
 
 
 ## 📄 License
